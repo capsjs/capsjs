@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @capsjs
+- 👋 Hi, I’m Manon
 - 🌱 I’m currently learning javascript, react, nodejs and more..
 
 <!---
